@@ -1,27 +1,27 @@
 <p align="center">
-  <img src="screenshots/screenshot-1.png" width="32%">
-  <img src="screenshots/screenshot-2.png" width="32%">
-  <img src="screenshots/screenshot-3.png" width="32%">
+  <img src="screenshots/Screenshot-1.png" width="32%">
+  <img src="screenshots/Screenshot-2.png" width="32%">
+  <img src="screenshots/Screenshot-3.png" width="32%">
 </p>
 
 <h1>
   <img src="assets/app-icon.webp" width="45" style="vertical-align: middle;">
-  <span style="vertical-align: middle;">&nbsp; Know My Number</span>
+  <span style="vertical-align: middle;">&nbsp; Blue Pencil</span>
 </h1>
 
-**An Educational Android App for Children**
+**A Creative Drawing & Coloring App for Children**
 
-Know My Number is an educational Android application designed to help young children learn and memorize their parents' phone numbers through fun, interactive games.
+Blue Pencil is a fun and interactive Android application designed for children to explore their creativity through drawing and coloring.
 
-The app provides a playful and child-friendly environment where children can practice remembering important phone numbers in an engaging way.
+With a simple, colorful, and child-friendly interface, the app provides an enjoyable space for kids to express their imagination and create their own artwork.
 
 ## ✨ Features
 
-- Interactive educational games
-- Fun and engaging learning activities
-- Child-friendly user interface
-- Phone number memorization exercises
-- Reward-based gameplay
+- Interactive drawing and coloring activities
+- Child-friendly and intuitive interface
+- A variety of pictures to color
+- Fun interactive character
+- In-app purchases
 
 ## 🛠️ Technologies & Tools
 
