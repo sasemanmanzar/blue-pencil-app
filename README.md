@@ -1,1 +1,47 @@
-# blue-pencil-app
+<p align="center">
+  <img src="screenshots/screenshot-1.png" width="32%">
+  <img src="screenshots/screenshot-2.png" width="32%">
+  <img src="screenshots/screenshot-3.png" width="32%">
+</p>
+
+<h1>
+  <img src="assets/app-icon.webp" width="45" style="vertical-align: middle;">
+  <span style="vertical-align: middle;">&nbsp; Know My Number</span>
+</h1>
+
+**An Educational Android App for Children**
+
+Know My Number is an educational Android application designed to help young children learn and memorize their parents' phone numbers through fun, interactive games.
+
+The app provides a playful and child-friendly environment where children can practice remembering important phone numbers in an engaging way.
+
+## ✨ Features
+
+- Interactive educational games
+- Fun and engaging learning activities
+- Child-friendly user interface
+- Phone number memorization exercises
+- Reward-based gameplay
+
+## 🛠️ Technologies & Tools
+
+- **Language:** Java
+- **Platform:** Android SDK
+- **UI Development:** XML Layouts
+- **Backend & Analytics:** Firebase Analytics
+- **Monetization:** In-App Billing
+- **Development Environment:** Android Studio
+
+## 📥 Download
+
+[Download the latest APK](https://github.com/sasemanmanzar/blue-pencil-app/releases/latest)
+
+## 🔒 Source Code
+
+The source code is maintained in a private repository and is not publicly available.
+
+---
+
+## 👩‍💻 Developer
+
+**Sara Aseman-Manzar** · Independent Android Developer
